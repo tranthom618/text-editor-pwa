@@ -14,6 +14,7 @@ JATE or "Just Another Text Editor" is a text editor project designed specificall
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Heroku](#heroku)
 - [Questions](#questions)
 
 ## Installation
@@ -30,7 +31,7 @@ JATE is extremely simply to use. Simply begin typing, starting at line 1, or use
 
 ## Credits
 
-Starer code provided from University of Toronto - School of Continuing Studies - Coding Bootcamp. Sections of code were pieced together from in-class schoolwork activities, especially from the Module 19 Mini-Project Solutions.
+Starter code provided from University of Toronto - School of Continuing Studies - Coding Bootcamp. Sections of code were pieced together from in-class schoolwork activities, especially from the Module 19 Mini-Project Solutions.
 
 Matthew Calimba provided significant assistance as a tutor provided by the UofT Coding Bootcamp program.
 
@@ -38,7 +39,7 @@ Matthew Calimba provided significant assistance as a tutor provided by the UofT 
 
 MIT License - See LICENSE file contained within directory for more details.
 
-## Installation
+## Heroku
 
 Heroku Deployed Live Site: https://sheltered-garden-94699.herokuapp.com/
 
